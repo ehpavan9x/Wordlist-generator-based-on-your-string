@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Welcome to Wordlist generator tool, you can enter min len max length and the strings that you want to randamize and our tool will generate wordlist for you !"
+echo "Welcome to Wordlist generator tool, you can enter min len max length and the strings that you want to randomize and our tool will generate wordlist for you !"
 
 read -p "Enter the minimum length of the wordlist: " min_length
 read -p "Enter the max Length of the wordlist: " max_length
