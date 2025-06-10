@@ -3,7 +3,7 @@ echo "Welcome to Wordlist generator tool, you can enter min len max length and t
 if ! command -v crunch &> /dev/null; then
   echo "❌ crunch is not installed. Install it with: sudo apt install crunch"
   exit 1
-f
+fi
 read -p "Enter the minimum length of the wordlist: " min_length
 read -p "Enter the max Length of the wordlist: " max_length
 read -p "Enter the string to randamize: " string
