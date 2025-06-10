@@ -23,8 +23,9 @@ The Wordlist Generator Tool allows you to specify the minimum and maximum length
 
 1. Make sure you have `crunch` installed on your system.
 2. Run the script:
-  kali@kali: ./wordlist_generator.sh (with executable permission) Or
-  kali@kali: bash ./wordlist_generator.sh
+  1. // kali@kali: ./wordlist_generator.sh  (with executable permission)
+  ---------------------OR-----------------      
+  3. // kali@kali: bash ./wordlist_generator.sh
 
 
 Follow the prompts to enter:
